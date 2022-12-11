@@ -1,17 +1,17 @@
-# Abhijit Gokhale
+# ABHIJIT GOKHALE
 *agokhale@syr.edu | +1-(315) 278-4351 | [LinkedIn](https://www.linkedin.com/in/abhijitgokhale/) | [GitHub](https://github.com/AbhijitGokhale)*
 
-*An Aspiring Data Scientist | Skilled and dedicated IT professional with diverse experience in data analysis*
+*Data Scientist Intern, Caterpillar | Data Analyst, Accenture | Data Science Teaching Assistant, Syracuse University*
 
 # PROFILE SUMMARY
-5 years of work exp. on client facing & product development roles in data engineering, data science, data analytics, business intelligence. Demonstrated analytical problem solving, leadership, effective communication, to work with internal, external partners.
+5 years of diverse work experience in data field on client facing & product development roles in data engineering, data science, data analytics, business intelligence. Demonstrated analytical problem solving, leadership, and effective communication to work with internal, and external partners.
 
 # EDUCATION
 * Masters of Science (Data Science), *Syracuse University*, 2021-2022
 * Bachelors of Science (Data Science), *Mumbai University*, 2012-2016
 
 # PROJECTS
-Below projects highlights technical skills in Data Engineering, Data Analytics, and Machine Learning using Python, PySpark, R, SQL, NoSQL, Tableau, and MS Power BI.
+Below projects highlight technical skills in Data Engineering, Data Analytics, and Machine Learning using Python, PySpark, R, SQL, NoSQL, Tableau, and MS Power BI.
 
 # [Credit Card Fraud Detection](https://github.com/AbhijitGokhale/Credit-Card-Fraud-Detetction)
 
@@ -32,3 +32,8 @@ This project makes use of ***sentiment analysis*** of cryptocurrency coupled wit
 * **Python libraries used:** requests,BeautifulSoup, time, smtplib
 * **Input:** Product URL, Sender and Receiver Email Adresses (one / many), Price Threshold value 
 * **Output:** smtplib to trigger email with changed price amount
+
+# [USA B2B & B2C Customer Sales Analysis Report 2020 to 2021](https://public.tableau.com/app/profile/abhijit.gokhale/viz/CustomerSalesAnalysisReport2020-2021/CustomerSalesAnalysisReport2020-2021![image](https://user-images.githubusercontent.com/84480824/206891442-fc12669a-f789-41f6-a9bb-e820c304b68f.png)
+)
+* **Software used:** Tableau Desktop
+* **Input:** Excel files
