@@ -33,7 +33,8 @@ This project makes use of ***sentiment analysis*** of cryptocurrency coupled wit
 * **Input:** Product URL, Sender and Receiver Email Adresses (one / many), Price Threshold value 
 * **Output:** smtplib to trigger email with changed price amount
 
-# [USA B2B & B2C Customer Sales Analysis Report 2020 to 2021](https://public.tableau.com/app/profile/abhijit.gokhale/viz/CustomerSalesAnalysisReport2020-2021/CustomerSalesAnalysisReport2020-2021![image](https://user-images.githubusercontent.com/84480824/206891442-fc12669a-f789-41f6-a9bb-e820c304b68f.png)
-)
+# [USA B2B & B2C Customer Sales Analysis Report 2020 to 2021](https://public.tableau.com/app/profile/abhijit.gokhale/viz/CustomerSalesAnalysisReport2020-2021/CustomerSalesAnalysisReport2020-2021)
 * **Software used:** Tableau Desktop
 * **Input:** Excel files
+* **Output:** (https://public.tableau.com/app/profile/abhijit.gokhale/viz/CustomerSalesAnalysisReport2020-2021/CustomerSalesAnalysisReport2020-2021)
+
