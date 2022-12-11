@@ -1,5 +1,6 @@
 # Abhijit Gokhale
 *agokhale@syr.edu | +1-(315) 278-4351 | [LinkedIn](https://www.linkedin.com/in/abhijitgokhale/) | [GitHub](https://github.com/AbhijitGokhale)*
+
 *An Aspiring Data Scientist | Skilled and dedicated IT professional with diverse experience in data analysis*
 
 # PROFILE SUMMARY
