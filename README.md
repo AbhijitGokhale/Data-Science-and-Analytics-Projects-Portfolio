@@ -37,7 +37,7 @@ Below projects highlight technical skills in Data Engineering, Data Analytics, a
 
 
 ## [Credit Card Fraud Detection](https://github.com/AbhijitGokhale/Credit-Card-Fraud-Detetction)
-Utilize existing credit card fraud data from January 2019 to December 2020 and develop a machine learning model in PySpark to perform Big Data Analysis which inturn leads to the best prediction results in revealing and preventing fraudulent transactions.
+**Objective:**  Utilize existing credit card fraud data from January 2019 to December 2020 and develop a machine learning model in PySpark to perform Big Data Analysis which inturn leads to the best prediction results in revealing and preventing fraudulent transactions.
 
 * Built Random Forest, Gradient Boosting with 3-fold cross validation, hyperparameter tunning for 1.8 mil imbalanced data.
 * Predicted fraudulent credit card customer transactions by maximizing the F1 score with 90% precision, classification accuracy.
@@ -49,7 +49,7 @@ Utilize existing credit card fraud data from January 2019 to December 2020 and d
 
 
 ## [Statistical & Predictive Analysis - Vaccination Rates in Californian School Districts](https://github.com/AbhijitGokhale/Statistical-Analysis-on-California-School-Districts-Vaccination)
-The project explains specific and appropriate statistical values; both frequentist and Bayesian inferential evidence; explanation including both data exploration and cleaning and appropriate diagnostics.
+**Objective:** The project explains specific and appropriate statistical values; both frequentist and Bayesian inferential evidence; explanation including both data exploration and cleaning and appropriate diagnostics.
 
 * Analyzed 15 years incremental trend, seasonality, variations in socioeconomic features through hypothesis driven EDA.
 * Determined statistically significant features using hypothesis test, t-test, ANOVA, MCMC Confidence Interval.
@@ -61,7 +61,7 @@ The project explains specific and appropriate statistical values; both frequenti
 
 
 ## [USA B2B & B2C Customer Sales Analysis Report 2020 to 2021](https://public.tableau.com/app/profile/abhijit.gokhale/viz/CustomerSalesAnalysisReport2020-2021/CustomerSalesAnalysisReport2020-2021)
-Interactive Tableau dashboards with BI reports by leveraging the feasibility to use Built-in and customized visualizations, parameters and fields for a customer transaction data - Total 36 columns with 280000 records.
+**Objective:** Interactive Tableau dashboards with BI reports by leveraging the feasibility to use Built-in and customized visualizations, parameters and fields for a customer transaction data - Total 36 columns with 280000 records.
 
 * Designed & published 3 interactive Tableau dashboards & BI reports for 280K data using built-in & custom objects.
 * Accomplished deliverables to visualize the impact of yearly trends in product categories, order status, payment methods.
@@ -72,7 +72,7 @@ Interactive Tableau dashboards with BI reports by leveraging the feasibility to 
 
 
 ## [Covid-19 Patient's Pre-Condition Analysis](https://github.com/AbhijitGokhale/Covid-19-Patient-s-Pre-Condition-Analysis)
-Analyze the factors that influence mortality in patients who do not need an intensive care unit and those who do. What are the underlying comorbidities that patients are likely to test positive for COVID? Which factors influence the need for an intensive care unit? This can help with patient triage, optimal distribution of vaccinations (if needed) in countries with limited resources, or prevention in countries susceptible to the virus.
+**Objective:** Analyze the factors that influence mortality in patients who do not need an intensive care unit and those who do. What are the underlying comorbidities that patients are likely to test positive for COVID? Which factors influence the need for an intensive care unit? This can help with patient triage, optimal distribution of vaccinations (if needed) in countries with limited resources, or prevention in countries susceptible to the virus.
 
 * Analyzed 1 year trend on 560K data and interpreted 3-fold cross validated Random Forest and Gradient Boosting models.
 * Showcased actionable insights to treat all age patients by classifying features - ICU requirement, Covid-19 result, and death based on date of symptoms, hospitalization, and patient’s death to reduce the mortality by 70% and save hospitalization costs.
@@ -83,7 +83,7 @@ Analyze the factors that influence mortality in patients who do not need an inte
 
 
 ## [Tweeter Text Analysis using AWS Neptune](https://github.com/AbhijitGokhale/Tweeter-Text-Analysis-using-AWS-Neptune)
-A high performance, scalable, secure, and cost effective NoSQL AWS Neptune database to perform fast information retrieval among edges and nodes.
+**Objective:** A high performance, scalable, secure, and cost effective NoSQL AWS Neptune database to perform fast information retrieval among edges and nodes.
 
 * Built AWS Neptune graph database by executing Cypher and Gremlin queries in AWS Sagemaker Jupyter Notebook based on 17 nodes and 4 different edges to traverse quickly & recommend the tweets, retweets, and hashtags.
 * Facilitated the S3 bucket instance to bulk load data files, and IAM role assignment to provide read-write access. 
@@ -97,7 +97,7 @@ A high performance, scalable, secure, and cost effective NoSQL AWS Neptune datab
 
 
 ## [Soccer Database Management](https://github.com/AbhijitGokhale/Soccer-Database-Management)
-Soccer database management projects presents unique MS SQL server backend with frontend developed in Microsoft PowerApps.
+**Objective:** Soccer database management projects presents unique MS SQL server backend with frontend developed in Microsoft PowerApps.
 * **Data Model:** draw.io for E-R Diagrams and Logical Data Modeling\
 * **Relational Databases (Backend Interface):** MS SQL Server with DDL, DML, DCL, and TCL operations
 * **Frontend Application UI:** Microsoft PowerApps
@@ -106,7 +106,7 @@ Soccer database management projects presents unique MS SQL server backend with f
 
 
 ## [Amazon Price Tracker - Web Scraping](https://github.com/AbhijitGokhale/Amazon-Price-Tracker)
-Recently there was an Amazon sale and I wanted to buy a product that I had been checking on for a long time. But, as I was ready to buy it I noticed that the price had increased and I wondered if the sale was even legitimate. So I figured by creating this price tracker app, it would not only increase my fluency in python but I would also have my very own home-brewed app to track amazon prices.
+**Objective:** Recently there was an Amazon sale and I wanted to buy a product that I had been checking on for a long time. But, as I was ready to buy it I noticed that the price had increased and I wondered if the sale was even legitimate. So I figured by creating this price tracker app, it would not only increase my fluency in python but I would also have my very own home-brewed app to track amazon prices.
 * **Python Libraries:** requests,BeautifulSoup, time, smtplib
 * **Input:** Product URL, Sender and Receiver Email Adresses (one / many), Price Threshold value 
 * **Output:** smtplib to trigger an email with changed price amount
