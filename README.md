@@ -36,7 +36,7 @@ Interactive Tableau dashboards with BI reports by leveraging the feasibility to 
 * **Input:** Excel files
 * **Output:** (https://public.tableau.com/app/profile/abhijit.gokhale/viz/CustomerSalesAnalysisReport2020-2021/CustomerSalesAnalysisReport2020-2021)
 
-# [Covid-19 Patient's Pre-Condition Analysis](https://github.com/AbhijitGokhale/Covid-19-Patient-s-Pre-Condition-Analysis)
+## [Covid-19 Patient's Pre-Condition Analysis](https://github.com/AbhijitGokhale/Covid-19-Patient-s-Pre-Condition-Analysis)
 Analyze the factors that influence mortality in patients who do not need an intensive care unit and those who do. What are the underlying comorbidities that patients are likely to test positive for COVID? Which factors influence the need for an intensive care unit? This can help with patient triage, optimal distribution of vaccinations (if needed) in countries with limited resources, or prevention in countries susceptible to the virus.
 * **Python Libraries:** pandas, numpy, scipy, sklearn, seaborn, plotly, matplotlib
 * **Input:** Patient's medical pre conditions binomial data
