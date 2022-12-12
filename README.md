@@ -14,6 +14,7 @@ Data Scientist Intern, Caterpillar | Data Analyst, Accenture | Data Science Teac
 
 # LEADERSHIP
 ***Data Science Teaching Assistant, Syracuse University (Sept 2021 – Dec 2022)***
+
 Delivered assistance to program director and professors, in interpreting statistical and machine learning results in R programming with 9 classes of 30 students each for 22 labs, and 3 projects for Introduction to Data Science course. 
 
 
