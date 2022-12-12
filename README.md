@@ -61,14 +61,14 @@ Below projects highlight technical skills in Data Engineering, Data Analytics, a
 
 
 ## [USA B2B & B2C Customer Sales Analysis Report 2020 to 2021](https://public.tableau.com/app/profile/abhijit.gokhale/viz/CustomerSalesAnalysisReport2020-2021/CustomerSalesAnalysisReport2020-2021)
-**Objective:** Interactive Tableau dashboards with BI reports by leveraging the feasibility to use Built-in and customized visualizations, parameters and fields for a customer transaction data - Total 36 columns with 280000 records.
+**Objective:** Interactive Tableau dashboards with BI reports by leveraging the feasibility to use Built-in and customized visualizations, parameters and fields for a customer transaction data.
 
 * Designed & published 3 interactive Tableau dashboards & BI reports for 280K data using built-in & custom objects.
 * Accomplished deliverables to visualize the impact of yearly trends in product categories, order status, payment methods.
 
   * **Software:** Tableau Desktop
-  * **Input:** Excel files
-  * **Output:** (https://public.tableau.com/app/profile/abhijit.gokhale/viz/CustomerSalesAnalysisReport2020-2021/CustomerSalesAnalysisReport2020-2021)
+  * **Input:** Excel files - Total 36 columns with 280000 records.
+  * **Output:** https://public.tableau.com/app/profile/abhijit.gokhale/viz/CustomerSalesAnalysisReport2020-2021/CustomerSalesAnalysisReport2020-2021
 
 
 ## [Covid-19 Patient's Pre-Condition Analysis](https://github.com/AbhijitGokhale/Covid-19-Patient-s-Pre-Condition-Analysis)
