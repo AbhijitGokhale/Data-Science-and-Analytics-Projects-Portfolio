@@ -1,7 +1,7 @@
 # ABHIJIT GOKHALE
 *agokhale@syr.edu | abhijit5october@gmail.com | +1-(315) 278-4351 | [LinkedIn](https://www.linkedin.com/in/abhijitgokhale/) | [GitHub](https://github.com/AbhijitGokhale) | [HackerRank](https://www.hackerrank.com/agokhale4) | [PLUM Behavioral Profile](https://secure.plum.io/en/p/H9mMpam2DX7DlEJ9LST0mw)*
 
-*Data Scientist Intern, Caterpillar | Data Analyst, Accenture | Data Science Teaching Assistant, Syracuse University*
+Data Scientist Intern, Caterpillar | Data Analyst, Accenture | Data Science Teaching Assistant, Syracuse University
 
 # PROFILE SUMMARY
 5 years of diverse work experience in data field on client facing & product development roles in data engineering, data science, data analytics, business intelligence. Demonstrated analytical problem solving, leadership, and effective communication to work with internal, and external partners.
