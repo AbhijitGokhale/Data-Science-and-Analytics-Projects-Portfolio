@@ -71,6 +71,18 @@ Below projects highlight technical skills in Data Engineering, Data Analytics, a
   * **Input:** Excel files - Total 36 columns with 280000 records.
   * **Output:** https://public.tableau.com/app/profile/abhijit.gokhale/viz/CustomerSalesAnalysisReport2020-2021/CustomerSalesAnalysisReport2020-2021
 
+## [Pneumonia-Detection-Chest-XRAY-Images-using-CNN-Keras-Tensorflow](https://github.com/AbhijitGokhale/Pneumonia-Detection-Chest-XRAY-Images-using-CNN-Keras-Tensorflow)
+
+**Objective:** Chest X-rays are at the moment, the best available method for diagnosing pneumonia, and therefore play a crucial role in diagnosing and providing clinical care to the ones affected. However, detecting pneumonia in chest X-rays is a challenging task that relies on the availability of expert radiologists. Experts are either not available in remote areas or most people can’t afford it. Under such circumstances, automating the detection of diseases through AI becomes the need of the hour. This study will result into aiding healthcare practioners, physicians, doctors, hospitals to take quick actions if the chest Xray detects Pneumonia. (Based on recent studies it's been observed that pneumonia patients are more prone to have COVID symptoms and their ill-effects.) We’ll build an end-to-end machine learning & AI pipeline that uses X-ray images of the lungs to detect pneumonia in patients.
+
+* Preprocessed & normalized 5.8K chest XRAY image data for uniform size, grayscale issue and RGB format.
+* Designed CNN using Keras Tensorflow with filter matrix, input filter size patch, MaxPooling, relu, softmax, rmsprop optimzer & binary cross entropy. 
+* Delieverd validation & test results to accuratly detect pneumonia from chest XRAY with 2 False Negatives, 74% accuracy & 77% weighted F-1 Score. 
+
+  * **Python Libraries:** open-cv(cv2), keras tensorflow, pandas, numpy, sklearn, glob, matplotlib, pillow(PIL)
+  * **Input:** Images in ".jpeg" format for Normal and Pneumonia patients
+  * **Output:** An end-to-end machine learning & AI pipeline that uses X-ray images of the lungs to detect pneumonia in patients.
+  
 
 ## [Covid-19 Patient's Pre-Condition Analysis](https://github.com/AbhijitGokhale/Covid-19-Patient-s-Pre-Condition-Analysis)
 **Objective:** Analyze the factors that influence mortality in patients who do not need an intensive care unit and those who do. What are the underlying comorbidities that patients are likely to test positive for COVID? Which factors influence the need for an intensive care unit? This can help with patient triage, optimal distribution of vaccinations (if needed) in countries with limited resources, or prevention in countries susceptible to the virus.
