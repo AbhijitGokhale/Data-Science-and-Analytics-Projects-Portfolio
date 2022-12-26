@@ -71,7 +71,7 @@ Below projects highlight technical skills in Data Engineering, Data Analytics, a
   * **Input:** Excel files - Total 36 columns with 280000 records.
   * **Output:** https://public.tableau.com/app/profile/abhijit.gokhale/viz/CustomerSalesAnalysisReport2020-2021/CustomerSalesAnalysisReport2020-2021
 
-## [Pneumonia-Detection-Chest-XRAY-Images-using-CNN-Keras-Tensorflow](https://github.com/AbhijitGokhale/Pneumonia-Detection-Chest-XRAY-Images-using-CNN-Keras-Tensorflow)
+## [Pneumonia Detection Chest XRAY Images using CNN Keras Tensorflow](https://github.com/AbhijitGokhale/Pneumonia-Detection-Chest-XRAY-Images-using-CNN-Keras-Tensorflow)
 
 **Objective:** Chest X-rays are at the moment, the best available method for diagnosing pneumonia, and therefore play a crucial role in diagnosing and providing clinical care to the ones affected. However, detecting pneumonia in chest X-rays is a challenging task that relies on the availability of expert radiologists. Experts are either not available in remote areas or most people can’t afford it. Under such circumstances, automating the detection of diseases through AI becomes the need of the hour. This study will result into aiding healthcare practioners, physicians, doctors, hospitals to take quick actions if the chest Xray detects Pneumonia. (Based on recent studies it's been observed that pneumonia patients are more prone to have COVID symptoms and their ill-effects.) We’ll build an end-to-end machine learning & AI pipeline that uses X-ray images of the lungs to detect pneumonia in patients.
 
