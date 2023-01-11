@@ -1,2 +1,8 @@
 theme: jekyll-theme-cayman
-google_analytics: G-REDJ02G086
+#google_analytics: G-REDJ02G086
+# Analytics
+analytics:
+  provider               : "google-gtag"
+  google:
+    measurement_id          : "G-REDJ02G086"
+    anonymize_ip         : # true, false (default)
