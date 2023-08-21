@@ -48,7 +48,7 @@ Senior Data Engineer, JP Morgan Chase & Co. | Data Scientist Intern, Caterpillar
 
 
 # PROJECTS
-Below projects highlight technical skills in Data Engineering, Data Analytics, and Machine Learning using Python, PySpark, R, SQL, NoSQL, Tableau, and MS Power BI.
+Below projects highlight business and technical skills in Data Engineering, Data Analytics, and Machine Learning using Python, PySpark, R, SQL, NoSQL, Tableau, and MS Power BI.
 
 
 ## [Credit Card Fraud Detection](https://github.com/AbhijitGokhale/Credit-Card-Fraud-Detetction)
