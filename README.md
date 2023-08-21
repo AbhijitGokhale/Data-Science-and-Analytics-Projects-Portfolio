@@ -15,7 +15,7 @@ Senior Data Engineer, JP Morgan Chase & Co. | Data Scientist Intern, Caterpillar
 
 # LEADERSHIP
 ***Senior Data Engineer, JP Morgan Chase & Co. (Feb 2023 - Current)***
-* Recommended time and cost saving automated solutions and frameworks in handling data transformation with PySpark and AWS to reduce total effeorst by 20%
+* Recommended time and cost saving automated solutions and frameworks in handling data transformation with PySpark and AWS to reduce total efforts by 20%.
 * Conducted learning sessions with team members to explain the implementation of Glue Crawlers, Alteryx and Tableu dashboard development.
   
 ***Data Science Teaching Assistant, Syracuse University (Sept 2021 – Dec 2022)***
