@@ -1,10 +1,11 @@
 # ABHIJIT GOKHALE
 *agokhale@syr.edu | abhijit5october@gmail.com | +1-(315) 278-4351 | [LinkedIn](https://www.linkedin.com/in/abhijitgokhale/) | [GitHub](https://github.com/AbhijitGokhale) | [HackerRank](https://www.hackerrank.com/agokhale4) | [PLUM Behavioral Profile](https://secure.plum.io/en/p/H9mMpam2DX7DlEJ9LST0mw)*
 
-Data Scientist Intern, Caterpillar | Data Analyst, Accenture | Data Science Teaching Assistant, Syracuse University
+Senior Data Engineer, JP Morgan Chase & Co. | Data Scientist Intern, Caterpillar | Data Analyst, Accenture | Data Science Teaching Assistant, Syracuse University
 
 # PROFILE SUMMARY
 5 years of diverse work experience in data field on client facing & product development roles in data engineering, data science, data analytics, business intelligence. Demonstrated analytical problem solving, leadership, and effective communication to work with internal, and external partners.
+
 
 
 # EDUCATION
@@ -13,12 +14,25 @@ Data Scientist Intern, Caterpillar | Data Analyst, Accenture | Data Science Teac
 
 
 # LEADERSHIP
+***Senior Data Engineer, JP Morgan Chase & Co. (Feb 2023 - Current)***
+* Recommended time and cost saving automated solutions and frameworks in handling data transformation with PySpark and AWS to reduce total effeorst by 20%
+* Conducted learning sessions with team members to explain the implementation of Glue Crawlers, Alteryx and Tableu dashboard development.
+  
 ***Data Science Teaching Assistant, Syracuse University (Sept 2021 – Dec 2022)***
+* Delivered assistance to program director and professors, in interpreting statistical and machine learning results in R programming with 9 classes of 30 students each for 22 labs, and 3 projects for Introduction to Data Science course. 
+* Analyzed 8k health insurance data to recommend vital features for expensive prices such as smoking, location, age, exercise. 
+* Implemented quantitative research on data pipeline project implementation and development using Alteryx to run python scripts and guide students on different stages of data preprocessing and analysis. 
+* Designed ETL systems in AWS to extract data from S3 using Glue Crawlers and delivered data load as well as CRUD operations on Glue Data tables using SQL queries in Athena & Redshift. 
 
-Delivered assistance to program director and professors, in interpreting statistical and machine learning results in R programming with 9 classes of 30 students each for 22 labs, and 3 projects for Introduction to Data Science course. 
 
 
 # WORK EXPERIENCE
+***Senior Data Engineer, JP Morgan & Chase Co. (Feb 2023 - Current)***                                                                                           	
+* Designed and implemented end to end Big Data pipeline for daily 150GB compressed data in AWS S3 using AWS Glue and PySpark along with data quality checks.
+* Programmed a standardized PySpark unit testing framework for deployment and daily job logs frameworks to provide a 100% transparency and reduce the team’s total sprint efforts by 30%.
+* Automated the data ingestion process with 4 Glue crawlers to create 30 catalog tables and query the S3 data using AWS Athena 
+* Recommended PySpark dataframe handling and data modeling changes to save 20% cost behind utilized cloud services.
+
 ***Data Scientist Intern, Caterpillar, Chicago, Illinois (May 2022 – Aug 2022)***	
 * Analyzed 341 machine’s engine removal data using python pandas to predict survival or risk probability of engine shutdown.
 * Performed feature selection using nonparametric log rank test with Kaplan-Meier, correlation analysis, & feature importance.
