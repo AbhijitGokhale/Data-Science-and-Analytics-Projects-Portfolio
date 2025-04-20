@@ -1,10 +1,12 @@
 # ABHIJIT GOKHALE
-*agokhale@syr.edu | abhijit5october@gmail.com | +1-(315) 278-4351 | [LinkedIn](https://www.linkedin.com/in/abhijitgokhale/) | [GitHub](https://github.com/AbhijitGokhale) | [HackerRank](https://www.hackerrank.com/agokhale4) | [PLUM Behavioral Profile](https://secure.plum.io/en/p/H9mMpam2DX7DlEJ9LST0mw)*
+*abhijit.s.gokhale@gmail.com | +1-(315) 278-4351 | [LinkedIn](https://www.linkedin.com/in/abhijitgokhale/) | [GitHub](https://github.com/AbhijitGokhale) | [HackerRank](https://www.hackerrank.com/agokhale4) | [PLUM Behavioral Profile](https://secure.plum.io/en/p/H9mMpam2DX7DlEJ9LST0mw)*
 
 Senior Data Engineer, JP Morgan Chase & Co. | Data Scientist Intern, Caterpillar | Data Analyst, Accenture | Data Science Teaching Assistant, Syracuse University
 
 # PROFILE SUMMARY
-5 years of diverse work experience in data field on client facing & product development roles in data engineering, data science, data analytics, business intelligence. Demonstrated analytical problem solving, leadership, and effective communication to work with internal, and external partners.
+As a senior data engineer at JPMorgan Chase & Co., I applied AWS Glue ETL skills to design, develop, and test data warehousing solutions to enhance customer identity and authentication. I received recognition from business stakeholders and product owners for maintening end to end data pipeline with data resilliency, zero defect and prompt delivery. In this journey, I worked on data mapping, data validation, exploratory data analysis, efficient and fast data migration, data deployment.
+
+I completed my Master's degree in Applied Data Science from Syracuse University School of Information Studies, where I also worked as a teaching assistant for IST 687: Introduction to Data Science. I helped students with assignments, grading, and resolving queries on statistical results, implementation, and R programming. Additionally, I interned as a data scientist at Caterpillar, where I used Python and R to explore, analyze, and visualize datasets related to machine regular events and machine sensors. Working as a data analyst with Accenture on multiple client focussed, development and testing opportunities with pharmaceutical and energy production client's financial as well as HR data, layed a base to my data & analytics journey. I am passionate about working with huge data sets and finding insights that can improve business strategy and outcomes. I am a team player with excellent communication and problem-solving skills.
 
 
 
@@ -16,7 +18,7 @@ Senior Data Engineer, JP Morgan Chase & Co. | Data Scientist Intern, Caterpillar
 # LEADERSHIP
 ***Senior Data Engineer, JP Morgan Chase & Co. (Feb 2023 - Current)***
 * Recommended time and cost saving automated solutions and frameworks in handling data transformation with PySpark and AWS to reduce total efforts by 20%.
-* Conducted learning sessions with team members to explain the implementation of Glue Crawlers, Alteryx and Tableu dashboard development.
+* Conducted learning sessions with team members to explain the implementation of instance graph data model using openCypher, Glue Crawlers, Alteryx and Tableu dashboard development.
   
 ***Data Science Teaching Assistant, Syracuse University (Sept 2021 – Dec 2022)***
 * Delivered assistance to program director and professors, in interpreting statistical and machine learning results in R programming with 9 classes of 30 students each for 22 labs, and 3 projects for Introduction to Data Science course. 
@@ -28,10 +30,12 @@ Senior Data Engineer, JP Morgan Chase & Co. | Data Scientist Intern, Caterpillar
 
 # WORK EXPERIENCE
 ***Senior Data Engineer, JP Morgan & Chase Co. (Feb 2023 - Current)***                                                                                           	
-* Designed and implemented end to end Big Data pipeline for daily 150GB compressed data in AWS S3 using AWS Glue and PySpark along with data quality checks.
-* Programmed a standardized PySpark unit testing framework for deployment and daily job logs frameworks to provide a 100% transparency and reduce the team’s total sprint efforts by 30%.
-* Automated the data ingestion process with 4 Glue crawlers to create 30 catalog tables and query the S3 data using AWS Athena 
-* Recommended PySpark dataframe handling and data modeling changes to save 20% cost behind utilized cloud services.
+* Engineered end-to-end big data pipelines using PySpark and AWS Glue to process ~150GB daily across 10+ sources, and automated deployment of 40+ ETL modules via Terraform, managing resources like IAM, S3, Athena, and SNS for scalable and auditable production workflows.
+* Architected a graph-based data model in AWS Neptune with 100M+ nodes to visualize customer relationships and attributes, driving a 20% increase in stakeholder engagement through enhanced data exploration.
+* Built a reusable data processing and quality framework with parallel processing and centralized config management via AuroraDB and S3, reducing maintenance overhead by 25%.
+* Optimized ingestion workflows by automating Glue Crawler and Athena catalog updates for curated datasets, reducing data latency by 20% and enabling timely updates for analytical reporting.
+* Built a reusable PySpark log monitoring framework to capture job status, exceptions, and failure metadata; integrated with Athena to support operational Tableau reporting and accelerate failure diagnostics by 40%.
+* Developed stakeholder-facing Tableau dashboards to visualize ETL data pipeline performance metrics and ML model generated risk scoring trends, enhancing data transparency and improving decision-making efficiency by 35%.
 
 ***Data Scientist Intern, Caterpillar, Chicago, Illinois (May 2022 – Aug 2022)***	
 * Analyzed 341 machine’s engine removal data using python pandas to predict survival or risk probability of engine shutdown.
@@ -63,6 +67,18 @@ Below projects highlight business and technical skills in Data Engineering, Data
   * **Output:** Fraudulent and Legitimate Credit Card Transaction Classification with a probability giving optimized F-1 Score
 
 
+## [AI-Powered Data Insight Platform]
+**Objective:**  To build an AI-powered web application that enables users to upload datasets and receive instant, context-aware analysis using Large Language Models (LLMs). The app supports session tracking, response history, and dynamic backend processing via a user-friendly frontend.
+
+* Built a full-stack data analysis assistant using JavaScript (UI) and FastAPI (Python backend), enabling users to upload datasets and receive real-time insights via Hugging Face LLM APIs with secure token-based access to Hugging Face models.
+* Implemented session tracking to log user activity, supporting personalized history and usage analytics.
+* Designed a history view in the UI to persist and display previous LLM responses, improving usability and revisit past insights.
+
+  * **Frontend (JavaScript):** HTML/CSS + Vanilla JavaScript (or optionally React), Axios (for API requests), LocalStorage / IndexedDB (for storing response history)
+  * **Backend (Python):** FastAPI – API server and route handling, Pandas – Basic data analysis and manipulation, SQLAlchemy – ORM for SQL database operations, sqlite3 or PostgreSQL – For session/user tracking, Requests – To call Hugging Face APIs, Uvicorn – ASGI server to run FastAPI app
+  * **LLM Integration:** Hugging Face Inference API (token-based access to models like gpt2, bert, or bigscience/bloom)
+
+
 ## [Statistical & Predictive Analysis - Vaccination Rates in Californian School Districts](https://github.com/AbhijitGokhale/Statistical-Analysis-on-California-School-Districts-Vaccination)
 **Objective:** The project explains specific and appropriate statistical values; both frequentist and Bayesian inferential evidence; explanation including both data exploration and cleaning and appropriate diagnostics.
 
@@ -84,6 +100,7 @@ Below projects highlight business and technical skills in Data Engineering, Data
   * **Software:** Tableau Desktop
   * **Input:** Excel files - Total 36 columns with 280000 records.
   * **Output:** https://public.tableau.com/app/profile/abhijit.gokhale/viz/CustomerSalesAnalysisReport2020-2021/CustomerSalesAnalysisReport2020-2021
+
 
 ## [Pneumonia Detection Chest XRAY Images using CNN Keras Tensorflow](https://github.com/AbhijitGokhale/Pneumonia-Detection-Chest-XRAY-Images-using-CNN-Keras-Tensorflow)
 
