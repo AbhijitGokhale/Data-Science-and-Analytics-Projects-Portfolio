@@ -67,7 +67,7 @@ Below projects highlight business and technical skills in Data Engineering, Data
   * **Output:** Fraudulent and Legitimate Credit Card Transaction Classification with a probability giving optimized F-1 Score
 
 
-## [AI-Powered Data Insight Platform]
+## [AI-Powered Data Insight Platform](https://github.com/AbhijitGokhale/Interactive-LLM-Powered-Data-Analysis-Tool-Full-Stack-AI-App)
 **Objective:**  To build an AI-powered web application that enables users to upload datasets and receive instant, context-aware analysis using Large Language Models (LLMs). The app supports session tracking, response history, and dynamic backend processing via a user-friendly frontend.
 
 * Built a full-stack data analysis assistant using JavaScript (UI) and FastAPI (Python backend), enabling users to upload datasets and receive real-time insights via Hugging Face LLM APIs with secure token-based access to Hugging Face models.
