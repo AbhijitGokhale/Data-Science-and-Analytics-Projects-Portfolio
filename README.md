@@ -9,7 +9,6 @@ As a senior data engineer at JPMorgan Chase & Co., I applied AWS Glue ETL skills
 I completed my Master's degree in Applied Data Science from Syracuse University School of Information Studies, where I also worked as a teaching assistant for IST 687: Introduction to Data Science. I helped students with assignments, grading, and resolving queries on statistical results, implementation, and R programming. Additionally, I interned as a data scientist at Caterpillar, where I used Python and R to explore, analyze, and visualize datasets related to machine regular events and machine sensors. Working as a data analyst with Accenture on multiple client focussed, development and testing opportunities with pharmaceutical and energy production client's financial as well as HR data, layed a base to my data & analytics journey. I am passionate about working with huge data sets and finding insights that can improve business strategy and outcomes. I am a team player with excellent communication and problem-solving skills.
 
 
-
 # EDUCATION
 * Masters of Science (Data Science), *Syracuse University*, 2021-2022
 * Bachelors of Science (Data Science), *Mumbai University*, 2012-2016
